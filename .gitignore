@@ -1,3 +1,5 @@
+.DS_Store
+_img_bank
 _site
 .sass-cache
 .jekyll-metadata
